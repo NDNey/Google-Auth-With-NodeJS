@@ -19,12 +19,15 @@ This is the implementation of google Auth in node using passport. Log in using y
   - Fork the repo
   - Clone your forked repo.
   - In the config folder Create a `config.env` file and add the following:
-  - PORT = 8000 or any port you would like
-  - MONGO_URI = Your database URI Note : I used MongoDB when testing
-  - GOOGLE_CLIENT_ID = Your google client ID from Google cloud console https://console.cloud.google.com/
-  - GOOGLE_CLIENT_SECRET = Your Google client secret from Google cloud console.
-
-
-## Lesson Learned:
-
-Google AUTH in nodeJS using Passport.
+     - Fork the repo
+  - Clone your forked repo.
+  - Create a `.env` file and add the following:
+  ```js 
+  PORT = 8000 'Or any port you would like'
+  MONGO_URI = Your database URI  'I used MongoDB when testing'
+  GOOGLE_CLIENT_ID = client ID 'Your google client ID from Google cloud console https://console.cloud.google.com/'
+  GOOGLE_CLIENT_SECRET =  client secret  'Your Google client secret from Google cloud console'
+  ```
+  - Do 'npm install' in your terminal.
+  - Run with 'npm run' in your terminal.
+ 
