@@ -29,5 +29,5 @@ This is the implementation of google Auth in node using passport. Log in using y
   GOOGLE_CLIENT_SECRET =  client secret  'Your Google client secret from Google cloud console'
   ```
   - Do 'npm install' in your terminal.
-  - Run with 'npm run' in your terminal.
+  - Run with 'npm start' in your terminal.
  
